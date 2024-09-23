@@ -10,26 +10,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
+global.ownernomer = "243823661981"
+global.ownername = "KAYA"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
-global.ownername = 'Qasim Ali' //owner name
-global.botname = 'XeonBug-V8' //name of the bot
+global.ownernumber = '243823661981'  //creator number
+global.ownername = 'KAYA' //owner name
+global.botname = 'XeonBug-V9 VIP' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'GlobalTech\n\nContact: +923444844060'
+global.packname = 'KA YA
+global.author = 'GlobalTech\n\nContact: +243823661981'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Global Bot"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
+global.link = 'https://whatsapp.com/channel/0029VaiPkRPLY6d0qEX50e2k'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -59,7 +59,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
+    prem: 'KAYA PREMIUM',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
